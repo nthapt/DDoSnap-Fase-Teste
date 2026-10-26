@@ -1,8 +1,8 @@
-📋 Registro de Atualizações — NTH IP LOOKUP PRO
+##📋 Registro de Atualizações — NTH IP LOOKUP PRO
 v3.0 — Interface Modernizada
 Outubro de 2026
 
-![Uploading Captura de Tela 2026-10-26 às 16.38.01.png…]()
+<img width="862" height="609" alt="Captura de Tela 2026-10-26 às 16 38 01" src="https://github.com/user-attachments/assets/698c017b-7fe6-47f2-8255-4844456ebcdc" />
 
 
 A maior reformulação visual do projeto até agora:
