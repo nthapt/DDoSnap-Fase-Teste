@@ -2,8 +2,10 @@
 v3.0 — Interface Modernizada
 Outubro de 2026
 
-A maior reformulação visual do projeto até agora:
+![Uploading Captura de Tela 2026-10-26 às 16.38.01.png…]()
 
+
+A maior reformulação visual do projeto até agora:
 🎨 Banner RGB animado — o logo "NTH" agora pisca em cores vivas (rosa, laranja, verde, ciano e roxo) na inicialização, com efeito degradê real usando cores 24-bit
 📱 Menu interativo numerado — nova interface com opções 1, 2, 3 e 4; o programa agora roda em loop, voltando ao menu após cada operação
 🟢 Novo layout em verde — títulos, divisórias e rótulos padronizados com paleta verde e linhas ═de destaque
